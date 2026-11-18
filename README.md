@@ -28,7 +28,7 @@ An end-to-end data science portfolio project by **[ZubairLabs](https://zubairlab
 
 ## 📑 Contents
 
-1. [Executive overview](#-executive-overview) · 2. [Business problem](#-business-problem--objectives) · 3. [Features](#-features) · 4. [Tech stack](#-technology-stack) · 5. [Architecture](#-system-architecture) · 6. [Data pipeline](#-data-pipeline) · 7. [Dataset](#-dataset) · 8. [ML methodology](#-machine-learning-methodology) · 9. [NLP methodology](#-nlp-methodology) · 10. [Results](#-model-evaluation-results) · 11. [Screenshots](#-dashboard-screenshots) · 12. [Installation](#-installation) · 13. [Run locally](#-run-locally) · 14. [Deployment](#-deploy-to-streamlit-community-cloud) · 15. [Testing](#-testing) · 16. [Structure](#-repository-structure) · 17. [Limitations](#-known-limitations) · 18. [Roadmap](#-roadmap) · 19. [Author](#-author)
+1. [Executive overview](#-executive-overview) · 2. [Business problem](#-business-problem--objectives) · 3. [Features](#-features) · 4. [Tech stack](#-technology-stack) · 5. [Architecture](#%EF%B8%8F-system-architecture) · 6. [Data pipeline](#-data-pipeline) · 7. [Dataset](#%EF%B8%8F-dataset) · 8. [ML methodology](#-machine-learning-methodology) · 9. [NLP methodology](#-nlp-methodology) · 10. [Results](#-model-evaluation-results) · 11. [Screenshots](#%EF%B8%8F-dashboard-screenshots) · 12. [Installation](#%EF%B8%8F-installation) · 13. [Run locally](#%EF%B8%8F-run-locally) · 14. [Deployment](#%EF%B8%8F-deploy-to-streamlit-community-cloud) · 15. [Testing](#-testing) · 16. [Structure](#-repository-structure) · 17. [Limitations](#%EF%B8%8F-known-limitations) · 18. [Roadmap](#%EF%B8%8F-roadmap) · 19. [Author](#-author)
 
 ---
 
