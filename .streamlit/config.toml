@@ -1,0 +1,35 @@
+[server]
+headless = true
+maxUploadSize = 25           # MB — CSV uploads only
+enableXsrfProtection = true
+enableStaticServing = true   # serves ./static (bundled map outlines, no CDN needed)
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
+
+[theme]
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+baseRadius = "0.75rem"
+showSidebarBorder = true
+chartCategoricalColors = ["#0EA5E9", "#8B5CF6", "#10B981", "#F59E0B", "#EF4444", "#EC4899", "#14B8A6", "#6366F1"]
+
+[theme.light]
+primaryColor = "#0284C7"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#EEF2F7"
+textColor = "#0F172A"
+
+[theme.light.sidebar]
+backgroundColor = "#FFFFFF"
+
+[theme.dark]
+primaryColor = "#38BDF8"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#152238"
+textColor = "#E6EEF8"
+
+[theme.dark.sidebar]
+backgroundColor = "#0F1A2E"

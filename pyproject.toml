@@ -1,0 +1,21 @@
+[project]
+name = "jobscope-ai"
+version = "2.0.0"
+description = "Job market intelligence, rule-based skills NLP and salary prediction with a Streamlit dashboard"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Muhammad Zubair" }]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+filterwarnings = ["ignore::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 150
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E9", "F", "B", "UP", "I"]
+ignore = ["B023", "UP007"]
