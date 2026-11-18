@@ -8,7 +8,7 @@
 **Explore roles · understand skills demand · model compensation · plan career moves**
 
 [![CI](https://github.com/muhammadzubair-data/job-market-intelligence-salary-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammadzubair-data/job-market-intelligence-salary-prediction/actions/workflows/ci.yml)
-[![Live demo](https://img.shields.io/badge/Live_demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#-live-demo)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jobscope-ai-zubairlabs.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![Plotly](https://img.shields.io/badge/Plotly-charts-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/python/)
@@ -34,7 +34,7 @@ An end-to-end data science portfolio project by **[ZubairLabs](https://zubairlab
 
 ## 🌐 Live demo
 
-**▶ [Open JobScope AI on Streamlit Community Cloud](#)** — the link is added here once the deployment is live.
+**▶ [jobscope-ai-zubairlabs.streamlit.app](https://jobscope-ai-zubairlabs.streamlit.app)**, deployed on Streamlit Community Cloud from the `main` branch (Python 3.12). If the app has been idle it may take a few seconds to wake up.
 
 ## 🧭 Executive overview
 
@@ -292,7 +292,7 @@ job-market-intelligence-salary-prediction/
 ├── scripts/train.py              # reproducible training CLI
 ├── tests/                        # pytest suites, fixtures, Playwright E2E
 ├── data/                         # synthetic demo CSV + data dictionary
-├── docs/                         # architecture, model card, case study, deployment
+├── docs/                         # architecture, model card, case study, deployment, portfolio copy
 ├── assets/                       # logo, icon, real screenshots
 ├── static/topojson/              # bundled world map outlines (served locally)
 ├── .streamlit/config.toml        # light/dark themes, upload limit
